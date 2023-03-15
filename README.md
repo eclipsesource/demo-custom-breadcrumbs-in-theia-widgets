@@ -19,6 +19,8 @@ We also implement the method `attachPopupContent(breadcrumb, parent)`, which all
 In this widget, you can show arbitrary HTML, thus also render a list or tree widget as done by the `FilepathBreadcrumbsContribution`.
 For demo purposes though, we just show an arbitrary HTML content.
 
+![custom-breadcrumbs](https://user-images.githubusercontent.com/588090/225413219-7dfdf29c-db2c-484e-81c4-68a820c0e2a7.png)
+
 To try it out, build and run as described below and open the view *CustomBreadcrumbs Widget* via the application menu *View*.
 
 ## Prerequisites for running the example
